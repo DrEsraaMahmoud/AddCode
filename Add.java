@@ -5,7 +5,7 @@ public class Add {
 	
 	   public static void main (String[] args) {
 	   
-	    int a,b,ans;
+	    int a,b,answer;
 	    /**
 	     * @param a first number
 	    */
@@ -17,7 +17,7 @@ public class Add {
 	    */
 	    
 	    b = 5;
-	    ans = a+b;
+	    answer = a+b;
 	    System.out.println("Addition of 2 numbers is:" + ans);
 
 	    }
